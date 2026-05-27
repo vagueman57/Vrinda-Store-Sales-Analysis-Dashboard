@@ -6,6 +6,16 @@ This project analyzes sales data for Vrinda Store using Microsoft Excel. The pri
 
 ---
 
+## Dashboard
+
+Below is the interactive dashboard generated from the analysis:
+
+<img width="1743" height="684" alt="Screenshot 2026-05-27 181018" src="https://github.com/user-attachments/assets/356dea38-b1d9-4ec4-b1d9-38322dc8d318" />
+
+*Vrinda Store Annual Report 2022 Dashboard*
+
+---
+
 ## Objectives
 
 The key questions addressed in this analysis:
@@ -65,25 +75,29 @@ The key questions addressed in this analysis:
 
 ## Main Insights
 
-- **Women make up 65% of buyers** — indicating women are more likely to make purchases at Vrinda Store.
-- **Top 3 States:** Maharashtra, Karnataka, and Uttar Pradesh generate 35% of all orders.
-- **Age Group:** The 30-49 age bracket (Adults) contributes 50% of sales.
-- **Sales Channels:** Amazon, Flipkart, and Myntra collectively account for 80% of sales.
-- **Month with Highest Sales:** [Fill in based on your dataset]
-- **Most Contributing Channel:** [Fill in based on your dataset or state Amazon/Flipkart/Myntra based on above insights]
+- **Women make up 64% of buyers** — indicating women are more likely to make purchases at Vrinda Store.
+- **Top 3 States:** Maharashtra (2.99M), Karnataka (2.65M), and Uttar Pradesh (2.10M) generate the most orders.
+- **Age Group:** The 30-49 age bracket (Adults) contributes the majority of sales (Middle-Aged Adult + Young Adult = major share).
+- **Sales Channels:** Amazon (35%), Flipkart (22%), and Myntra (23%) collectively account for 80% of sales.
+- **Order Status:** 92% of the orders are delivered, with only 3% returned, 3% cancelled, and 2% refunded.
+- **Month with Highest Sales:** [Please fill in based on your dataset; visible in the Orders vs Sales chart.]
 - **Top 5 States by Sales:**  
   1. Maharashtra  
   2. Karnataka  
   3. Uttar Pradesh  
-  4. Telangana
-  5. 5. Tamil Nadu
+  4. Telangana  
+  5. Tamil Nadu
 
 ---
 
-## Order Status Analysis
+## Visuals
 
--<img width="1743" height="689" alt="image" src="https://github.com/user-attachments/assets/e6841e74-90e1-4d8f-993c-8a01378b0ea8" />
- [Add a table/chart or brief summary of findings regarding the distribution of order statuses, e.g., Delivered, Returned, Pending]
+Key plots included in the dashboard:
+- Orders vs Sales (monthly trend)
+- Sales by Men vs Women
+- Order Status distribution (overall, and by channel)
+- Sales: Top 5 States
+- Orders: Age vs Gender
 
 ---
 
@@ -121,6 +135,7 @@ Based on the above analysis, to boost Vrinda Store’s sales:
 3. Review the charts and pivot tables for detailed insights.
 
 ---
+
 
 ## License
 
